@@ -2,3 +2,6 @@ dataset,column,description
 gdp_clean,State,U.S. state (including District of Columbia)
 gdp_clean,Year,Year of observation (integer)
 gdp_clean,GDP,Gross Domestic Product in millions of current U.S. dollars
+income_pc_clean,State,U.S. state or District of Columbia
+income_pc_clean,Year,Year of observation (integer)
+income_pc_clean,Income_pc,Per capita personal income in current U.S. dollars
