@@ -5,3 +5,6 @@ gdp_clean,GDP,Gross Domestic Product in millions of current U.S. dollars
 income_pc_clean,State,U.S. state or District of Columbia
 income_pc_clean,Year,Year of observation (integer)
 income_pc_clean,Income_pc,Per capita personal income in current U.S. dollars
+real_income_pc_clean,State,U.S. state or District of Columbia
+real_income_pc_clean,Year,Year of observation (integer)
+real_income_pc_clean,Real_Income_pc,Real per capita personal income in constant 2017 U.S. dollars
