@@ -8,3 +8,6 @@ income_pc_clean,Income_pc,Per capita personal income in current U.S. dollars
 real_income_pc_clean,State,U.S. state or District of Columbia
 real_income_pc_clean,Year,Year of observation (integer)
 real_income_pc_clean,Real_Income_pc,Real per capita personal income in constant 2017 U.S. dollars
+regional_price_parity_clean,State,U.S. state or District of Columbia
+regional_price_parity_clean,Year,Year of observation (integer)
+regional_price_parity_clean,Regional_Price_Parity,"Index measuring the relative cost of living across U.S. states, where 100 represents the national average. Values above 100 indicate higher-than-average prices, and values below 100 indicate lower-than-average prices."
