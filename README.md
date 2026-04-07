@@ -8,7 +8,7 @@ This analysis explores the following question:
 
 Using data from the U.S. Bureau of Economic Analysis (BEA), our analysis explores how economic growth translates into improved financial well-being in different states.
 
-# Data Sources
+## Data Sources
 
 All data is sourced from:
 
